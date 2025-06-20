@@ -7,7 +7,7 @@ const messages = [
     "Indi gid? mahibi nalang ko...",
     "Sad ko kung wala gid...",
     "very very very sad :((",
-    "Walabl gid??",
+    "Wala gid??",
     "Pag oo na bala"
 ];
 
