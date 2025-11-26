@@ -1,14 +1,14 @@
 const messages = [
     "Sure ka?",
-    "Sure nagid na??",
+    "Sure na talaga??",
     "legit, wala?",
     "Please ssob...",
-    "Isipa tarong!",
-    "Indi gid? mahibi nalang ko...",
-    "Sad ko kung wala gid...",
+    "Suree?????",
+    "Wala talaga? iiyak nalang ako...",
+    "Sad ako kung wala talaga...",
     "very very very sad :((",
-    "Wala gid??",
-    "Pag oo na bala"
+    "Wala talaga??",
+    "(⁠ ⁠≧⁠Д⁠≦⁠)"
 ];
 
 let messageIndex = 0;
